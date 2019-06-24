@@ -6,3 +6,6 @@ closeComment: >
 lockOnClose: true
 
 allowNoTemplates: true
+
+skipAuthors:
+  - mattlewis92
