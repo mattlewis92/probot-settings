@@ -8,4 +8,10 @@ lockOnClose: true
 allowNoTemplates: true
 
 skipAuthors:
+  # me
   - mattlewis92
+  
+  # gold sponsors from runbox
+  - tadzik
+  - hernan604
+  - gtandersen
